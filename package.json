@@ -9,7 +9,7 @@
     "build": "scripts build",
     "test": "scripts test",
     "dev": "vite",
-    "
+    
     "preview": "vite preview"
     
      
