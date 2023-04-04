@@ -6,7 +6,7 @@
   "scripts": {
     
     "start": "scripts start",
-    "build": "scripts build",
+    "build": "npm run build",
     "test": "scripts test",
     "dev": "vite",
     
