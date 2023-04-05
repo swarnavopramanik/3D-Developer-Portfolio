@@ -3,17 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  
   "scripts": {
-    
-    "start": "scripts start",
-    "build": "npm run build",
-    "test": "scripts test",
-    "dev": "vite",
-    
-    "preview": "vite preview"
-    
-     
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "npm run build && next export -o _static"
   },
+
+
+
   
 
   
