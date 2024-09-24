@@ -1,6 +1,5 @@
 # Build a Fantastic 3D Portfolio Website with Three.js and React.js
 
-![WhatsApp Image 2023-04-04 at 20 19 43](https://user-images.githubusercontent.com/105142693/229834402-06516476-f70a-4b3c-88bc-3b4c276a9e38.jpg)
 
 # Introduction
 
